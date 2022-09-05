@@ -1,8 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
-
-
 import ItemList from './components/itemList/ItemList';
 import Board from './components/board/Board';
 import Member from './components/member/Member';
